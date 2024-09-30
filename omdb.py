@@ -27,3 +27,5 @@ while film != 'STOP':
     print("-" * 120)
 
     film = input("Geef een film: ")
+
+print("Tot ziens!")
