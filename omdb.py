@@ -1,6 +1,6 @@
 import requests
 
-OMDB_API_KEY = ""
+OMDB_API_KEY = "465d41bf"
 with open("api_key.env") as file:
     OMDB_API_KEY = file.read().strip()
 
@@ -29,3 +29,4 @@ while film != 'STOP':
     film = input("Geef een film: ")
 
 print("Tot ziens!")
+print("Tot de volgende keer!")
