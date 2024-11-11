@@ -4,5 +4,5 @@ In dit project ga ik een applicatie ontwikkelen die samenvattingen geeft van fil
 
 Voor meer informatie, neem contact op via tijmen.muller@hu.nl
 
-By T.J. Muller
+By Tijmen Joppe Muller
 
